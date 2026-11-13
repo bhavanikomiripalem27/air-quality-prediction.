@@ -1,0 +1,21 @@
+{
+    "model_name": "Gradient Boosting",
+    "target": "Next-day PM2.5",
+    "features": [
+        "PM25",
+        "PM10",
+        "SO2",
+        "NO2",
+        "CO",
+        "O3",
+        "TEMP",
+        "PRES",
+        "DEWP",
+        "RAIN",
+        "WSPM",
+        "NASA_Temperature",
+        "NASA_Humidity",
+        "NASA_Wind_Speed",
+        "NASA_Rainfall"
+    ]
+}
